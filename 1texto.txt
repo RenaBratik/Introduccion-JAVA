@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 este es un ejercicio de github, primera modificacion. Tercera modificacion.
+=======
+este es un ejercicio de github, primera modificacion. Esto es una nueva modificacion.
+>>>>>>> bc6dad97a78a7a6c9f20c6c4d215e83552cbef59
